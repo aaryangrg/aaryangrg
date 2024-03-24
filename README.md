@@ -1,7 +1,7 @@
 ### Hi there 👋
 ```html
 I'm Aaryan Garg a 3rd year, CS Student @ BITS Pilani
-
+                                                                                                                    
 🤖 Currently exploring Computer Vision research
 
 🪜 I work across the stack
@@ -18,3 +18,5 @@ I'm Aaryan Garg a 3rd year, CS Student @ BITS Pilani
     </ol>
 
 ```
+![Github Stats](https://raw.githubusercontent.com/aaryangrg/stats/d6e7b56daf1c03871cd9cee37c58c5cd4694f840/generated/overview.svg)
+
