@@ -2,7 +2,7 @@
 ```html
 I'm Aaryan Garg a 3rd year, CS Student @ BITS Pilani
 
-+ Currently exploring Computer Vision research
+🤖 Currently exploring Computer Vision research
 
 🪜 I work across the stack
 
