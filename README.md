@@ -2,7 +2,7 @@
 ```html
 I'm Aaryan Garg a 3rd year, CS Student @ BITS Pilani
 
-+ Currently exploring research in vision
++ Currently exploring Computer Vision research
 
 🪜 I work across the stack
 
@@ -12,7 +12,7 @@ I'm Aaryan Garg a 3rd year, CS Student @ BITS Pilani
 
 🎦 Things I worked on recently :
     <ol>
-      <li> Diffusion based government scheme poster generation </li>
+      <li> Diffusion based government scheme poster generation </li> 
       <li> Conversational analytics dashboards </li>
       <li> Review based business insight derlivery straight to Slack </li>
     </ol>
